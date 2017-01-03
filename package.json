@@ -1,0 +1,21 @@
+{
+  "name": "ember-redux-observable-shim",
+  "version": "0.0.0",
+  "description": "Ember shim for redux-observable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ember-redux/ember-redux-observable-shim.git"
+  },
+  "keywords": [
+    "ember",
+    "redux",
+    "redux-observable",
+    "observable"
+  ],
+  "author": "Matthew Dahl (https://github.com/sandersky)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ember-redux/ember-redux-observable-shim/issues"
+  },
+  "homepage": "https://github.com/ember-redux/ember-redux-observable-shim#readme"
+}
