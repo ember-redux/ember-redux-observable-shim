@@ -12,8 +12,14 @@ ember install ember-redux-observable-shim
 ## Usage
 
 ```js
-import redux-observable from 'redux-observable';
-const { createSelector } = redux-observable;
+// app/middleware/index.js
+
+import { createEpicMiddleware } from 'redux-observable';
+import rootEpic from '../epics/index';
+
+const epicMiddleware = createEpicMiddleware(rootEpic);
+
+export default [epicMiddleware];
 ```
 
 To learn more about `redux-observable` and how to use it visit the [redux-observable](https://github.com/redux-observable) Github page.
