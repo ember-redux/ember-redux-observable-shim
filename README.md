@@ -5,6 +5,7 @@
 ## Installation
 
 ```bash
+ember install ember-redux
 ember install ember-rxjs-shim
 ember install ember-redux-observable-shim
 ```
