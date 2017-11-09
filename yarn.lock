@@ -4577,7 +4577,7 @@ redeyed@~0.5.0:
   dependencies:
     esprima-fb "~12001.1.0-dev-harmony-fb"
 
-redux-observable@^0.16.0:
+redux-observable@~0.16.0:
   version "0.16.0"
   resolved "https://registry.npmjs.org/redux-observable/-/redux-observable-0.16.0.tgz#dc431d0f47a9c3af232639d6bdd70d80c1b620d9"
 

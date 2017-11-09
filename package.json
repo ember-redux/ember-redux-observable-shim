@@ -1,6 +1,6 @@
 {
   "name": "ember-redux-observable-shim",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
@@ -42,7 +42,7 @@
     "ember-welcome-page": "^3.0.0",
     "loader.js": "^4.2.3",
     "redux": "^3.7.2",
-    "redux-observable": "^0.16.0",
+    "redux-observable": "~0.16.0",
     "ember-rxjs-shim": "^1.1.0",
     "rxjs": "^5.4.3"
   },
